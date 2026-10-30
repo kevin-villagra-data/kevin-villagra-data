@@ -1,6 +1,6 @@
-# Hola, soy Kevin Villagra 👋
+# Hola, mi nombre es Kevin Villagra 👋
 
-**Data Engineer** en Buenos Aires. Construyo pipelines ETL con **SQL Server, Python y BigQuery** sobre tablas de hechos de cientos de millones de filas, y vengo integrando **IA generativa (Gemini)** en procesos de datos productivos.
+Actualmente trabajo como **Data Engineer** en Buenos Aires. Construyo pipelines ETL con **SQL Server, Python y BigQuery** sobre tablas de hechos de cientos de millones de filas, y vengo integrando **IA generativa (Gemini)** en procesos de datos productivos.
 
 Antes de trabajar con datos, instalé y di soporte a los mismos servicios que hoy modelo: 11 años en telecomunicaciones me dan criterio de negocio sobre cada dato.
 
